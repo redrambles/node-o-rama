@@ -8,7 +8,7 @@
 // 
 //  ─────────────────────────────────────────────────────────────────────────────
 // 
-//  ## HINTS
+//  ## HINTS ARE GREAT
 // 
 //   To perform a filesystem operation you are going to need the fs module from
 //   the Node core library. To load this kind of module, or any other "global"
